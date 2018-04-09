@@ -1,15 +1,15 @@
-{
-    "zip":"[value]",
-    "country":"[value]",
-    "city":"[value]",
-    "last_name":"[value]",
-    "industry":"[value]",
-    "eula":"[value]",
-    "title":"[value]",
-    "phone":"[value]",
-    "company":"[value]",
-    "state":"[value]",
-    "department":"[value]",
-    "first_name":"[value]",
-    "email":"[value]"
+
+  "zip" : "cr0 2wd",
+  "country" : "[GB",
+  "city" : "[london",
+  "last_name" : "sabal",
+  "industry" : "telecoms",
+  "eula" : "[yes",
+  "title" : "HOF",
+  "phone" : "07484869774",
+  "company" : "BT",
+  "state" : "Surrey",
+  "department" : "Sales",
+  "first_name" : "Jayson",
+  "email" : "jayson.sabal@bt.com"
 }
